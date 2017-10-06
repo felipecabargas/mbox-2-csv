@@ -1,17 +1,16 @@
 # MBox-2-CSV
 
-Copyright 2017 - A. Felipe Cabargas - All Rights Reserved
----
+_Copyright 2017 - A. Felipe Cabargas - All Rights Reserved_
 
 ## Usage
 
 + Rename your `.mbox` file to `input.mbox`
 + Open a terminal
++ Download this program from [here]()
 + Run the following
 
 ```
-git clone 
-cd ~/mbox-2-csv
+cd Downloads/mbox-2-csv
 python ./csvconv.py
 ```
 
