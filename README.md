@@ -6,7 +6,8 @@ _Copyright 2017 - A. Felipe Cabargas - All Rights Reserved_
 
 + Rename your `.mbox` file to `input.mbox`
 + Open a terminal
-+ Download this program from [here]()
++ Download this program from [here](https://github.com/felipecabargas/mbox-2-csv/archive/master.zip)
++ Unzip it
 + Run the following
 
 ```
